@@ -10,4 +10,4 @@
 ## [16,21,11,8,12,22] dizisinin Big-O göstermini yazınız.
 Big-O : O(nlogn)
 ## Patika Linki
-[Patika Linki](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/merge-sort-proje)
+[Patika Linki](https://app.patika.dev/umutchan)
